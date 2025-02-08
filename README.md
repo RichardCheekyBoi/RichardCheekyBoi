@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! I'm RichardCheekyBoi 👋
 
-<!--
-**RichardCheekyBoi/RichardCheekyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👨‍💻 Software Developer
+- 🌱 Currently learning advanced topics in Crypto and Trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** Python, JavaScript, Java
+- **Web Development:** React, Node.js, Express, HTML, CSS
+- **Databases:** MySQL, Supabase, PostgreSQL
+
+## Projects
+
+Here are a few projects I've worked on:
+
+1. **[Project Name 1](#)**
+   - Description: A brief description of what the project does.
+   - Technologies: List of technologies used.
+
+
+## GitHub Stats
+
+![RichardCheekyBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardCheekyBoi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardCheekyBoi&layout=compact&theme=radical)
+
+---
+
+⭐️ From [RichardCheekyBoi](https://github.com/RichardCheekyBoi)
